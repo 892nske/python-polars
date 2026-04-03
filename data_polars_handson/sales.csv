@@ -1,0 +1,11 @@
+order_id,customer,region,category,quantity,unit_price,discount,order_date,is_member,note
+1001,Alice,East,Stock,10,120.5,0.05,2026-03-01,True,first
+1002,Bob,West,Bond,5,80.0,0.0,2026-03-02,False,
+1003,Charlie,East,Fund,8,150.0,0.1,2026-03-02,True,vip
+1004,Diana,North,Stock,12,110.0,0.03,2026-03-03,True,
+1005,Evan,South,Fund,3,200.0,0.15,2026-03-03,False,
+1006,Fiona,West,Stock,7,130.0,0.0,2026-03-04,True,campaign
+1007,George,East,Bond,15,75.5,0.08,2026-03-04,False,
+1008,Hana,South,Stock,6,140.0,0.05,2026-03-05,True,repeat
+1009,Ivan,North,Bond,9,90.0,0.02,2026-03-05,False,
+1010,Julia,West,Fund,4,210.0,0.12,2026-03-06,True,vip
